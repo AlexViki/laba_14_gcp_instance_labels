@@ -1,1 +1,1 @@
-# laba_14_gcp_instance_labels
+# laba - 14 Add GCP lables for instance
